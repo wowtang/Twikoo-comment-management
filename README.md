@@ -2,7 +2,7 @@
 
 一个开箱即用的 **Twikoo 评论系统管理面板**，原版UI较简陋，我们提供美观、响应式的后台界面，支持评论审核、配置管理、数据导入导出、深色主题等特性。**无需额外安装**，仅需一个 HTML 文件即可部署。
 
-制作者的博客：[htttps://wowtang.top](https://wowtang.top/)，这个项目的文章：[https://wowtang.top/post/Twikoo-comment-management-1.0/](https://wowtang.top/post/Twikoo-comment-management-1.0/)，有任何问题可在对应文章下评论，看到了都会回复！在github提问题可能回复不及时！
+制作者的博客：[htttps://wowtang.top/](https://wowtang.top/)，这个项目的文章：[https://wowtang.top/post/Twikoo-comment-management-1.0/](https://wowtang.top/post/Twikoo-comment-management-1.0/)，有任何问题可在对应文章下评论，看到了都会回复！在github提问题可能回复不及时！
 
 ---
 
